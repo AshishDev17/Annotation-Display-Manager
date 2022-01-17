@@ -1,4 +1,4 @@
-const { annotationDisplayManager } = require('./AnnotationsDisplayManager');
+const { annotationDisplayManager } = require('./AnnotationDisplayManager');
 
 const showMock = jest.fn();
 const hideMock = jest.fn();
