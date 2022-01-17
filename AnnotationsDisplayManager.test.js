@@ -105,6 +105,7 @@ const tracks = [
     }
   ]
 ];
+
 describe('Unit tests for Annotation Display Manager', () => {
   it('should invoke show and hide when current time is 265 seconds', () => {
     annotationDisplayManager(265, tracks);
