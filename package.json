@@ -1,0 +1,14 @@
+{
+  "name": "annotation_display_manager",
+  "version": "1.0.0",
+  "description": "Annotation Display Manager",
+  "main": "AnnotationsDisplayManager.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
